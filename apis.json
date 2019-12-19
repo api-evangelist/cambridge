@@ -1,0 +1,51 @@
+{
+    "name": "Cambridge",
+    "description": "Cambridge University Press advances learning, knowledge and research worldwide",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/724-cambridge.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "libraries",
+        "universities",
+        "university library"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cambridge\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cambridge",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/724-cambridge.jpg",
+            "humanURL": "http:\/\/cambridge.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cambridge-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cambridge-university-press"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/journals.cambridge.org\/developers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CambridgeUP"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cambridge.org"
+        }
+    ]
+}
